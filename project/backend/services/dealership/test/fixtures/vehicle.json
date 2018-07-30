@@ -1,0 +1,16 @@
+{
+	"_id": "5b5df86a4c620056f05c1280",
+	"brand": {
+		"code": 1,
+		"name": "Acura"
+	},
+	"model": {
+		"code": 1,
+		"name": "Integra GS 1.8"
+	},
+	"age": {
+		"code": "1992-1",
+		"name": "1992 Gasolina"
+	},
+	"price": "R$ 12.251,00"
+}
